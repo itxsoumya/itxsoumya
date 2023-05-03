@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **express, node, typescript**
 
-- ⚡ Fun fact **I am a geek**
+- ⚡ Fun fact **I am a geek 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

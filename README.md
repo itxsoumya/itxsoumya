@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan</h1>
 <h3 align="center">A passionate back-end developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itxsoumya&label=Profile%20views&color=0e75b6&style=flat" alt="itxsoumya" /> </p>
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itxsoumya&label=Profile%20views&color=0e75b6&style=flat" alt="itxsoumya" /> </p> -->
 
-[![](https://visitcount.itsvg.in/api?id=itxsoumya&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=itxsoumya&label=Profile%20Views&pretty=true)](https://github.com/itxsoumya)
 
 <p align="left"> <a href="https://twitter.com/itx_soumya" target="blank"><img src="https://img.shields.io/twitter/follow/itx_soumya?logo=twitter&style=for-the-badge" alt="itx_soumya" /></a> </p>
 

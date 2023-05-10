@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxsoumya&label=Profile%20views&color=0e75b6&style=flat" alt="itxsoumya" /> </p>
 
+[![](https://visitcount.itsvg.in/api?id=itxsoumya&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 <p align="left"> <a href="https://twitter.com/itx_soumya" target="blank"><img src="https://img.shields.io/twitter/follow/itx_soumya?logo=twitter&style=for-the-badge" alt="itx_soumya" /></a> </p>
 
 

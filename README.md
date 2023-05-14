@@ -21,7 +21,7 @@
 <!-- ### 😂 Random Dev Meme -->
 <!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
 
-### Thanks for Visiting my GitHub Profile!
+### 🙏 Thanks for Visiting my GitHub Profile!
 
 ---
 <p align="center">
